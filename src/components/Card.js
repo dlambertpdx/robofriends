@@ -1,3 +1,4 @@
+import React from 'react';
 const Card = ({ name, email, id }) => {
     return (
         <div className='tc bg-light-green dib br3 ma2 pa3 grow be2 shadow-5'>
